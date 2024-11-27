@@ -164,7 +164,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
    
-
+/*
     var fpsElement = document.createElement('div');
     fpsElement.id = 'fps';
     fpsElement.style.zIndex = '10000';
@@ -214,7 +214,7 @@ document.addEventListener('DOMContentLoaded', function () {
     
 });
 
-
+*/
 
 
 var pageLoading = document.querySelector("#zyyo-loading");
